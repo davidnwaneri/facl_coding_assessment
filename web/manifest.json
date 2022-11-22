@@ -1,6 +1,6 @@
 {
-    "name": "facl_locker_room",
-    "short_name": "facl_locker_room",
+    "name": "zenrapy",
+    "short_name": "zenrapy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
